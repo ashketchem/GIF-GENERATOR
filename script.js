@@ -53,3 +53,4 @@ async function gifGenerator() {
 
 gifGen.addEventListener("click", gifGenerator);
 
+
